@@ -1,0 +1,233 @@
+{
+  "source_file": "Sample_input.pdf",
+  "total_pages": 4,
+  "summary": {
+    "succeeded": 3,
+    "rejected": 1,
+    "errors": 0
+  },
+  "forms": [
+    {
+      "page_number": 1,
+      "status": "SUCCESS",
+      "rejection_reason": null,
+      "quality_metrics": {
+        "ink_ratio": 0.0671,
+        "blur_score": 3300.93,
+        "template_matches": 361,
+        "homography_inliers": 141
+      },
+      "data": {
+        "form_title": "Breaking Containment - Life Saving Action",
+        "observation_date": "2024-10-02",
+        "observer": "John Davis",
+        "company_observed": "Summit Construction",
+        "location_cwa": "8000",
+        "shift": "Day",
+        "timesheet_number": "25489",
+        "employee_number": "7852",
+        "checklist_items": [
+          {
+            "item_number": "01",
+            "question": "Has the location to be cut or opened been visibly marked?",
+            "rating": "Imminent Hazard"
+          },
+          {
+            "item_number": "02",
+            "question": "Work has been authorized to begin (e.g. - Line Break Permit)",
+            "rating": "Imminent Hazard"
+          },
+          {
+            "item_number": "03",
+            "question": "Nearby work activities has no potential ignition sources or conflict with work scope (e.g. hot work)",
+            "rating": "Imminent Hazard"
+          },
+          {
+            "item_number": "04",
+            "question": "Exclusion zone (e.g. barricade) is in place.",
+            "rating": "At Risk"
+          },
+          {
+            "item_number": "05",
+            "question": "There is clear means of communication with the equipment operator",
+            "rating": "Safe"
+          },
+          {
+            "item_number": "06",
+            "question": "Workers positioned outside line of fire",
+            "rating": "Imminent Hazard"
+          },
+          {
+            "item_number": "07",
+            "question": "Spill containment plan in place",
+            "rating": "Imminent Hazard"
+          },
+          {
+            "item_number": "08",
+            "question": "Energy sources isolated and secured",
+            "rating": "Imminent Hazard"
+          }
+        ],
+        "cczjv_expectation_questions": {
+          "positive_feedback_provided": "Yes",
+          "job_stopped_imminent_hazard": "No",
+          "investigation_conducted": "N/A",
+          "corrective_actions_taken": "N/A"
+        },
+        "comments": "Safety measures were strictly followed."
+      }
+    },
+    {
+      "page_number": 2,
+      "status": "SUCCESS",
+      "rejection_reason": null,
+      "quality_metrics": {
+        "ink_ratio": 0.0675,
+        "blur_score": 3385.66,
+        "template_matches": 359,
+        "homography_inliers": 144
+      },
+      "data": {
+        "form_title": "O&I Confined Space - Life Saving Action",
+        "observation_date": "2024-10-01",
+        "observer": "Luis Gomez",
+        "company_observed": "Hernandez Builders",
+        "location_cwa": "1000",
+        "shift": "Night",
+        "timesheet_number": "36781",
+        "employee_number": "14589",
+        "checklist_items": [
+          {
+            "item_number": "01",
+            "question": "Proof of Training for CSE Duties (e.g. HH Stickers)",
+            "rating": "Imminent Hazard"
+          },
+          {
+            "item_number": "02",
+            "question": "Does the crew have a valid confined space permit?",
+            "rating": "N/A"
+          },
+          {
+            "item_number": "03",
+            "question": "Reliable communication is available for an Emergency (e.g. Hole Watch)",
+            "rating": "N/A"
+          },
+          {
+            "item_number": "04",
+            "question": "CSE Attendant monitoring entrant status and can communicate with entrants",
+            "rating": "N/A"
+          },
+          {
+            "item_number": "05",
+            "question": "Access/egress entry ways clear of obstructions?",
+            "rating": "N/A"
+          },
+          {
+            "item_number": "06",
+            "question": "Controls to prevent unauthorized access (e.g. Barricades, attendant, signs) are in place?",
+            "rating": "Imminent Hazard"
+          },
+          {
+            "item_number": "07",
+            "question": "Fire extinguisher located near entry point?",
+            "rating": "Imminent Hazard"
+          },
+          {
+            "item_number": "08",
+            "question": "Does the crew maintain an access/egress record?",
+            "rating": "Imminent Hazard"
+          }
+        ],
+        "cczjv_expectation_questions": {
+          "positive_feedback_provided": "N/A",
+          "job_stopped_imminent_hazard": "No",
+          "investigation_conducted": "Yes",
+          "corrective_actions_taken": "Yes"
+        },
+        "comments": "Improvements needed in communication."
+      }
+    },
+    {
+      "page_number": 3,
+      "status": "SUCCESS",
+      "rejection_reason": null,
+      "quality_metrics": {
+        "ink_ratio": 0.0723,
+        "blur_score": 3945.95,
+        "template_matches": 369,
+        "homography_inliers": 144
+      },
+      "data": {
+        "form_title": "Critical Devices - Life Saving Action",
+        "observation_date": "2024-09-30",
+        "observer": "Maria Hernandez",
+        "company_observed": "Queen's Contracting",
+        "location_cwa": "7000",
+        "shift": "Night",
+        "timesheet_number": "49012",
+        "employee_number": "357951",
+        "checklist_items": [
+          {
+            "item_number": "01",
+            "question": "Is a Work Authorization Permit and/or Variance in place and at the work front to bypass/defeat a Safety Critical Device?",
+            "rating": "Safe"
+          },
+          {
+            "item_number": "02",
+            "question": "Alternative controls in place to manage risks while Safety Critical Device is defeated?",
+            "rating": "Safe"
+          },
+          {
+            "item_number": "03",
+            "question": "Is there an emergency response plan during safety critical device defeat?",
+            "rating": "N/A"
+          },
+          {
+            "item_number": "04",
+            "question": "Safety critical device defeat/bypass is documented?",
+            "rating": "N/A"
+          },
+          {
+            "item_number": "05",
+            "question": "Safety critical device defeat/bypass is communicated?",
+            "rating": "At Risk"
+          },
+          {
+            "item_number": "06",
+            "question": "Have crane computer by-passes/alarms been tampered with or disabled?",
+            "rating": "Imminent Hazard"
+          },
+          {
+            "item_number": "07",
+            "question": "Tools equipped with built-in safety features? (spring loaded safety knives, deadman switches, etc.) And safety features not bypassed",
+            "rating": "Safe"
+          },
+          {
+            "item_number": "08",
+            "question": "Are tools with triggers being used properly? The trigger is not locked down",
+            "rating": "Safe"
+          },
+          {
+            "item_number": "09",
+            "question": "Are tools with guards and handles being used properly",
+            "rating": "Imminent Hazard"
+          }
+        ],
+        "cczjv_expectation_questions": {
+          "positive_feedback_provided": "No",
+          "job_stopped_imminent_hazard": "No",
+          "investigation_conducted": "Yes",
+          "corrective_actions_taken": "No"
+        },
+        "comments": "Great teamwork and performance."
+      }
+    },
+    {
+      "page_number": 4,
+      "status": "REJECTED_INVALID_FORM",
+      "rejection_reason": "No valid form image detected (raw text: 'FAILED TEST FORM')",
+      "quality_metrics": {},
+      "data": null
+    }
+  ]
+}
